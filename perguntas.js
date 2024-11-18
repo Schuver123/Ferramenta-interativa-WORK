@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'educação fisica',
+    'Qual a altura da rede de vôlei nos jogos masculino e feminino?',
+    'A altura é 2,43 m e 2,24 m'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Qual a capital do México?',
+    'A capital do México é a Cidade do México'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'que a palavra legend significa em português?',
+    'significa Lenda'
+)
+
+criaCartao(
+    'Quimica',
+    'Atualmente, quantos elementos químicos a tabela periódica possui?'
+    'Atualmente a tabela possui 118 elementos'
 )
