@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Quimica',
-    'Atualmente, quantos elementos químicos a tabela periódica possui?'
+    'Atualmente, quantos elementos químicos a tabela periódica possui?',
     'Atualmente a tabela possui 118 elementos'
 )
